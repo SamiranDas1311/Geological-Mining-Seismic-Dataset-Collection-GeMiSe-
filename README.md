@@ -562,77 +562,80 @@ Strat100k.shp (Stratigraphic Linework) - A linework shapefile that contains stra
 
 5) EasyGSH-DB
 
-Sedimentology Dataset
+**Sedimentology Dataset**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- All data sets for sedimentology have on-the-fly generated preview images, metadata and data sets, click on desired format to download.
+**Description-** All data sets for sedimentology have on-the-fly generated preview images, metadata and data sets, click on desired format to download.
 
 Select year: Web services for geographic information systems: WMS - https://mdi-dienste.baw.de/geoserver/ EasyGSH_Sediment/wms WFS - https://mdi-dienste.baw.de/geoserver/ EasyGSH_Sediment/wfs WCS - https://mdi-dienste.baw.de/geoserver/ EasyGSH_Sediment/wcs
 
-Seismic dataset Location- Multiple
+**Seismic dataset**
 
-Description- The original Seismic dataset from UCI machine learning repository is a binary classification dataset having 19 attributes. It is an unbalanced dataset where the positive (hazard) class is a minority class and considered as outlier class and the negative class (no hazard) is considered as inlier class. Out of 19 attributes 11 are utilized for outlier detection.
+**Location-** Multiple
 
-Tags-Local Density meets Spectral Outlier Detection.
+**Description-** The original Seismic dataset from UCI machine learning repository is a binary classification dataset having 19 attributes. It is an unbalanced dataset where the positive (hazard) class is a minority class and considered as outlier class and the negative class (no hazard) is considered as inlier class. Out of 19 attributes 11 are utilized for outlier detection.
 
-Link- http://odds.cs.stonybrook.edu/seismic-dataset/
+**Tags-Local Density meets Spectral Outlier Detection**.
 
-Seismic Time-Series Dataset
+**Link-** http://odds.cs.stonybrook.edu/seismic-dataset/
 
-Location- Multiple
+**Seismic Time-Series Dataset**
 
-Description- The IRIS DMC archives time series (waveform) data from stations around the world. Passive Source data is collected continuously, and usually monitors natural seismic activity. Often, known events are used to identify segments of data to fetch. Active Source data usually involves the creation of seismic events using explosives or mechanical devices like air guns. Discrete data sets may be collected and organized around these events. This is the primary IRIS archive, containing primarily passive source data in SEED format. Data channels are organized by FDSN identifier elements, and primarily accessed through a data service API. Assembled data primarily comes from temporary deployments and in formats other than SEED. Data comes from various sources including IRIS PASSCAL (mostly active source), the USGS, and others.
+**Location-** Multiple
 
-Tags-
+**Description-** The IRIS DMC archives time series (waveform) data from stations around the world. Passive Source data is collected continuously, and usually monitors natural seismic activity. Often, known events are used to identify segments of data to fetch. Active Source data usually involves the creation of seismic events using explosives or mechanical devices like air guns. Discrete data sets may be collected and organized around these events. This is the primary IRIS archive, containing primarily passive source data in SEED format. Data channels are organized by FDSN identifier elements, and primarily accessed through a data service API. Assembled data primarily comes from temporary deployments and in formats other than SEED. Data comes from various sources including IRIS PASSCAL (mostly active source), the USGS, and others.
 
-Link- https://ds.iris.edu/ds/nodes/dmc/data/types/timeseries-data/
 
-Seismic Event Data
+**Link-** https://ds.iris.edu/ds/nodes/dmc/data/types/timeseries-data/
 
-**Location- ** Multiple
+**Seismic Event Data**
 
-Description- RIS aggregates event data from a number of independently-operated catalogs. ISF format with DMC extensions WEED Summary File Format Event Search Tools All Event Tools Wilber IEB – IRIS Earthquake Browser PyWEED Tags
+**Location-** Multiple
 
-Earthquakes Event Web Service
+**Description-** RIS aggregates event data from a number of independently-operated catalogs. ISF format with DMC extensions WEED Summary File Format Event Search Tools All Event Tools Wilber IEB – IRIS Earthquake Browser PyWEED Tags
 
-Link- https://ds.iris.edu/ds/nodes/dmc/data/types/events/
+**Earthquakes Event Web Service**
 
-Earthquake Archives Location- Multiple
+**Link-** https://ds.iris.edu/ds/nodes/dmc/data/types/events/
 
-Description- The old seismograms, if properly interpreted, provide invaluable information on earthquakes in the past, and every effort should be made to save them, regardless of their quality, from possible loss and to make copies in an easily readable form." Hiroo Kanamori (1988). I. Introduction The purpose of these International Digital Earthquake Archives (IDEAs) is to preserve earthquake data, specially seismograms, for future research. For example, Hiroo Kanamori used seismograms recorded at Debilt, the Netherlands to demonstrate that the 1960 Chile and the 1964 Alaskan earthquakes are indeed "Great Earthquakes", much larger than other "great earthquakes", such as, 1952 Kamchatka and 1963 Kurile earthquakes, 1923 Kanto and 1924 Mindanao, 2001 Peru, and 2001 Peru. Seismograms, data, and related materials of selected earthquakes are stored in archives as computer data files so that they are freely accessible via the Internet, and seismograms (in originally scanned resolution) are downloadable from the IRIS Data Management Center. Volunteers and donors are welcome. Please contact William H.K. Lee.
+**Earthquake Archives** 
+
+**Location-** Multiple
+
+**Description-** The old seismograms, if properly interpreted, provide invaluable information on earthquakes in the past, and every effort should be made to save them, regardless of their quality, from possible loss and to make copies in an easily readable form." Hiroo Kanamori (1988). I. Introduction The purpose of these International Digital Earthquake Archives (IDEAs) is to preserve earthquake data, specially seismograms, for future research. For example, Hiroo Kanamori used seismograms recorded at Debilt, the Netherlands to demonstrate that the 1960 Chile and the 1964 Alaskan earthquakes are indeed "Great Earthquakes", much larger than other "great earthquakes", such as, 1952 Kamchatka and 1963 Kurile earthquakes, 1923 Kanto and 1924 Mindanao, 2001 Peru, and 2001 Peru. Seismograms, data, and related materials of selected earthquakes are stored in archives as computer data files so that they are freely accessible via the Internet, and seismograms (in originally scanned resolution) are downloadable from the IRIS Data Management Center. Volunteers and donors are welcome. Please contact William H.K. Lee.
 
 II. International Digital Earthquake Archives
 
 1906 San Francisco Earthquake Archive dedicated to Prof. A.C. Lawson and Prof. H.F. Reid 1906 Aleutian Is. Earthquake Archive in Memory of Prof. Donald B. Scott. 1906 Valparaiso (Chile) Earthquake Archive in Memory of Prof. Donald B. Scott 1909 Taipei (Taiwan) Earthquake Archive in Memory of Prof. Ta-You Wu 1920 Haiyuan, Ningxia Province, Republic of China August 14, 1939 Cuban Earthquake Archive July 29, 1943 Puerto Rico Earthquake Archive July 30, 1943 Puerto Rico Earthquake Archive August 4, 1946 Hispaniola Earthquake Archive August 8, 1946 Hispaniola Earthquake Archive October 4, 1946 Hispaniola Earthquake Archive April 21, 1948 Hispaniola Earthquake Archive June 28, 1948 Fukui (Japan) Earthquake Archive in Memory of Prof. Masayuki Kikuchi May 31, 1953 Hispaniola Earthquake Archive 1957 Daly City (California) Earthquake Archive in Memory of Mr. Manuel G. "Doc" Bonilla (in preparation) 1960 Great Chilean Earthquake Archive in Honor of Prof. Hiroo Kanamori (in preparation) 1962 Qazvin (Iran) Earthquake Archive Archives by Stations
 
-**Location- **Multiple
+**Location-** Multiple
 
-Description- These archives contain seismograms and related materials of the "Reference Stations of the World". These Reference Stations are chosen for their strategic locations and long durations in operation. Volunteers are welcome. Please contact William H.K. Lee at: whklee@usgs.gov For this project, we hope to have several types of information added to the site. They include: bulletins of seismic stations, early-20th-century lists of seismic stations (1921, 1931, 1953, 1964, and 1979), inventories of data holdings of paper seismograms at the Denver Federal center in Lakewood, Colorado, the USGS microfilm holdings in Golden, Colorado, TIFF images of seismograms of Caribbean earthquakes and several years of the reference stations. Finally, we have more than 4,000 images of Tide gauge records (marigrams) of tsunami copied from the DVD holdings of the NGDC in Boulder, Colorado. (Bill McCann, March 31, 2009; Mike Diggles, December 9, 2009) Each seismogram on microfilm was scanned at 8-bit gray scale and high resolution (2400 dpi or better, so that it is equivalent to 300 dpi or better for the original-size seismogram before microfilming) and image editing was performed for quality control.
+**Description-** These archives contain seismograms and related materials of the "Reference Stations of the World". These Reference Stations are chosen for their strategic locations and long durations in operation. Volunteers are welcome. Please contact William H.K. Lee at: whklee@usgs.gov For this project, we hope to have several types of information added to the site. They include: bulletins of seismic stations, early-20th-century lists of seismic stations (1921, 1931, 1953, 1964, and 1979), inventories of data holdings of paper seismograms at the Denver Federal center in Lakewood, Colorado, the USGS microfilm holdings in Golden, Colorado, TIFF images of seismograms of Caribbean earthquakes and several years of the reference stations. Finally, we have more than 4,000 images of Tide gauge records (marigrams) of tsunami copied from the DVD holdings of the NGDC in Boulder, Colorado. (Bill McCann, March 31, 2009; Mike Diggles, December 9, 2009) Each seismogram on microfilm was scanned at 8-bit gray scale and high resolution (2400 dpi or better, so that it is equivalent to 300 dpi or better for the original-size seismogram before microfilming) and image editing was performed for quality control.
 
-Puerto Rico Archives by Stations— Puerto Rico
+**Puerto Rico Archives by Stations— Puerto Rico**
 
-Location- Puerto Rico
+**Location-** Puerto Rico
 
-Description- A seismographic station in Puerto Rico has been in operation as Vieques (VQS) from 1903-1924, as San Juan (SJP) from 1926-1963, and San Juan (SJG) from 1963 to the present. A history of seismic recording in Puerto Rico is given in the file seismic- recording_history_Puerto_Rico (folder). This folder contains three related files: seismic-recording_history_Puerto_Rico.pdf paper_and_microfilm_inventory_for_IRIS.xls paper_and_microfilm_inventory_for_IRIS_table_notes.pdf For SJP, the station information is given in the files San_Juan_Charlier_1953.pdf and San_Juan_McComb_and_West_1931.pdf. For VQS, a brief 1921 station summary is given in the file: Vieques_Wood_1921.pdf For VQS, the 1903-1904 station information is given in the file: Vieques_1903-1924.pdf Seismogram Images Index of scanned seismogram image files of the World- Wide Standardized Seismograph Network (WWSSN) that are ready for download The following links go to tens of gigabytes of scanned seismograms. There is one link per station folder (e.g., SJG_Cayey). Each station folder contains one or more folders for years (e.g., SJG_1968). Where warranted, the year folders are further divided into month folders (e.g., SJG_1968-03). Each folder may contain several hundred seismogram scan files. In each case, there is both a small "thumbnail" (JPG or GIF) of the seismogram and the large compressed file (.zip, .gz, or max-quality (12) .jpg) of the scan itself. These latter files are each up to 50 MB in size. SJG_Cayey (folder). The filenames for SJG begin with month, day, and year (e.g., 030168 is March 1st, 1968). The filenames end with _01 through _06 to indicate the component of the seismogram as follows: _01, LP Vertical-component; _02, LP NS-component; _03, LP EW-component; _04, SP Vertical-component; _05, SP NS-component; _06, SP EW-component. View a PDF of a table of example filenames for March 1968. SJP_San_Juan (folder). Each original seismogram of SJP was scanned at 8-bit gray scale with a resolution of 500 dpi and image editing was performed for quality control. The filenames for SJP
+**Description-** A seismographic station in Puerto Rico has been in operation as Vieques (VQS) from 1903-1924, as San Juan (SJP) from 1926-1963, and San Juan (SJG) from 1963 to the present. A history of seismic recording in Puerto Rico is given in the file seismic- recording_history_Puerto_Rico (folder). This folder contains three related files: seismic-recording_history_Puerto_Rico.pdf paper_and_microfilm_inventory_for_IRIS.xls paper_and_microfilm_inventory_for_IRIS_table_notes.pdf For SJP, the station information is given in the files San_Juan_Charlier_1953.pdf and San_Juan_McComb_and_West_1931.pdf. For VQS, a brief 1921 station summary is given in the file: Vieques_Wood_1921.pdf For VQS, the 1903-1904 station information is given in the file: Vieques_1903-1924.pdf Seismogram Images Index of scanned seismogram image files of the World- Wide Standardized Seismograph Network (WWSSN) that are ready for download The following links go to tens of gigabytes of scanned seismograms. There is one link per station folder (e.g., SJG_Cayey). Each station folder contains one or more folders for years (e.g., SJG_1968). Where warranted, the year folders are further divided into month folders (e.g., SJG_1968-03). Each folder may contain several hundred seismogram scan files. In each case, there is both a small "thumbnail" (JPG or GIF) of the seismogram and the large compressed file (.zip, .gz, or max-quality (12) .jpg) of the scan itself. These latter files are each up to 50 MB in size. SJG_Cayey (folder). The filenames for SJG begin with month, day, and year (e.g., 030168 is March 1st, 1968). The filenames end with _01 through _06 to indicate the component of the seismogram as follows: _01, LP Vertical-component; _02, LP NS-component; _03, LP EW-component; _04, SP Vertical-component; _05, SP NS-component; _06, SP EW-component. View a PDF of a table of example filenames for March 1968. SJP_San_Juan (folder). Each original seismogram of SJP was scanned at 8-bit gray scale with a resolution of 500 dpi and image editing was performed for quality control. The filenames for SJP
 
-Location- Multiple
+**Location-** Multiple
 
-Description- STEAD includes two main classes of earthquake and nonearthquake signals recorded by seismic instruments. At this stage, the earthquake class contains only one category of local earthquakes with about 1,050,000 three-component seismograms (each 1 minute long) associated with ~ 450,000 earthquakes (Fig. 3) that occurred between January 1984 and August 2018. The earthquakes in the data set were recorded by 2,613 receivers (seismometers) (Fig. 7) worldwide located at local distances (within 350 km of the earthquakes). The non-earthquake class currently contains only one category of seismic noise including ~100,000 samples. Locations of instruments recording noise waveforms are presented in Fig. 5. Most of the seismograms have been recorded since 2000 (Fig. 6) in the United States and Europe where denser station coverage is available.
+**Description-** STEAD includes two main classes of earthquake and nonearthquake signals recorded by seismic instruments. At this stage, the earthquake class contains only one category of local earthquakes with about 1,050,000 three-component seismograms (each 1 minute long) associated with ~ 450,000 earthquakes (Fig. 3) that occurred between January 1984 and August 2018. The earthquakes in the data set were recorded by 2,613 receivers (seismometers) (Fig. 7) worldwide located at local distances (within 350 km of the earthquakes). The non-earthquake class currently contains only one category of seismic noise including ~100,000 samples. Locations of instruments recording noise waveforms are presented in Fig. 5. Most of the seismograms have been recorded since 2000 (Fig. 6) in the United States and Europe where denser station coverage is available.
 
-Tags- Earthquake, Seismic, Global, Seismometer
+**Tags-** Earthquake, Seismic, Global, Seismometer
 
-Link- https://github.com/smousavi05/STEAD
+**Link-** https://github.com/smousavi05/STEAD
 
-STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI
+**STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI**
 
-Kimama Well - Borehole Geophysics Database
+**Kimama Well - Borehole Geophysics Database**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- The Snake River Plain (SRP), Idaho, hosts potential geothermal resources due to elevated groundwater temperatures associated with the thermal anomaly Yellowstone-Snake River hotspot. Project HOTSPOT has coordinated international institutions and organizations to understand subsurface stratigraphy and assess geothermal potential. Over 5.9km of core were drilled from three boreholes within the SRP in an attempt to acquire continuous core documenting the volcanic and sedimentary record of the hotspot: (1) Kimama, (2) Kimberly, and (3) Mountain Home. The Kimama drill site was set up to acquire a continuous record of basaltic volcanism along the central volcanic axis and to test the extent of geothermal resources beneath the Snake River aquifer. Data submitted by project collaborator Doug Schmitt, University of Alberta
+**Description-** The Snake River Plain (SRP), Idaho, hosts potential geothermal resources due to elevated groundwater temperatures associated with the thermal anomaly Yellowstone-Snake River hotspot. Project HOTSPOT has coordinated international institutions and organizations to understand subsurface stratigraphy and assess geothermal potential. Over 5.9km of core were drilled from three boreholes within the SRP in an attempt to acquire continuous core documenting the volcanic and sedimentary record of the hotspot: (1) Kimama, (2) Kimberly, and (3) Mountain Home. The Kimama drill site was set up to acquire a continuous record of basaltic volcanism along the central volcanic axis and to test the extent of geothermal resources beneath the Snake River aquifer. Data submitted by project collaborator Doug Schmitt, University of Alberta
 
-Source: https://catalog.data.gov/dataset/kimama-wellborehole-geophysics-database
+**Source:** https://catalog.data.gov/dataset/kimama-wellborehole-geophysics-database
 
 Last updated at https://catalog.data.gov/organization/doegov: 2017-08-29
 
@@ -644,171 +647,171 @@ CREATED- 5 years ago by @datagov-us
 
 SIZE 552.57 MB
 
-**TAGS- **downhole, geopysics, geothermal, idaho, kimama,neutron, pressure, resistivity, seismic, sonic, srp, tmepe rature
+**TAGS-** downhole, geopysics, geothermal, idaho, kimama,neutron, pressure, resistivity, seismic, sonic, srp, tmepe rature
 
 LICENSE CC-BY
 
-Utah FORGE Seismic Stations and WellsGPS Survey Data, 2021
+**Utah FORGE Seismic Stations and WellsGPS Survey Data, 2021**
 
-**Location- **Utah, USA
+**Location-** Utah, USA
 
-Description- This is a CSV spreadsheet containing UTM and Latitude and Longitude coordinates and elevations for Wells 78-32, 58-32, and 16A(78)-32 and BOR1, BOR2, BOR3, FOR2, FOR5, FORK, FORU, and FORW seismic stations. These are from a GPS survey conducted by the Utah Geological Survey in June, 2021.
+**Description-** This is a CSV spreadsheet containing UTM and Latitude and Longitude coordinates and elevations for Wells 78-32, 58-32, and 16A(78)-32 and BOR1, BOR2, BOR3, FOR2, FOR5, FORK, FORU, and FORW seismic stations. These are from a GPS survey conducted by the Utah Geological Survey in June, 2021.
 
-**Link: **https://catalog.data.gov/dataset/utah-forge-seismicstations-and-wells-gps-survey-data-2021
+**Link:** https://catalog.data.gov/dataset/utah-forge-seismicstations-and-wells-gps-survey-data-2021
 
 Last updated at https://catalog.data.gov/organization/doegov: 2021-07-17
 
-Fallon, Nevada Geophysics and Geochemistry Dataset
+**Fallon, Nevada Geophysics and Geochemistry Dataset**
 
-Location- Nevada, USA
+**Location-** Nevada, USA
 
-Description- The data is associated to the Fallon FORGE project and includes mudlogs for all wells used to characterize the subsurface, as wells as gravity, magnetotelluric, earthquake seismicity, and temperature data from the Navy GPO and Ormat. Also included are geologic maps from the USGS and Nevada Bureau of Mines and Geology for the Fallon, NV area.
+**Description-** The data is associated to the Fallon FORGE project and includes mudlogs for all wells used to characterize the subsurface, as wells as gravity, magnetotelluric, earthquake seismicity, and temperature data from the Navy GPO and Ormat. Also included are geologic maps from the USGS and Nevada Bureau of Mines and Geology for the Fallon, NV area.
 
-Tags- aeromag, egs, fallon, forge, geochemistry, geochemisty, geophysical, geophysics, geothermal, gravity, lidar, nevada, seismic, temperature
+**Tags-** aeromag, egs, fallon, forge, geochemistry, geochemisty, geophysical, geophysics, geothermal, gravity, lidar, nevada, seismic, temperature
 
-**Link- **https://catalog.data.gov/dataset/frontier-observatoryfor- research-in-geothermal-energy-fallon-nevada-9647d
+**Link-** https://catalog.data.gov/dataset/frontier-observatoryfor- research-in-geothermal-energy-fallon-nevada-9647d
 
-Newberry EGS Datasets
+**Newberry EGS Datasets**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- Datasets and information used to characterize the subsurface of Newberry and support modeling efforts. Includes sources for well logs, earthquakes, maps & crosssections, and LiDAR/DEM. Tags- dataset, dem, earthquakes, egs, forge, geothermal, lidar, model, newberry, newgen, oregon, seismic Link- https://catalog.data.gov/dataset/newberry-egsdatasets Geophysical and Geospatial Shapefiles from the Milford, Utah FORGE Project
+**Description-** Datasets and information used to characterize the subsurface of Newberry and support modeling efforts. Includes sources for well logs, earthquakes, maps & crosssections, and LiDAR/DEM. Tags- dataset, dem, earthquakes, egs, forge, geothermal, lidar, model, newberry, newgen, oregon, seismic Link- https://catalog.data.gov/dataset/newberry-egsdatasets Geophysical and Geospatial Shapefiles from the Milford, Utah FORGE Project
 
-Location- Multiple
+**Location-** Multiple
 
-Description- Three shapefiles in this submission show the position of proposed seismic line surveys. The mid-crustal velocity anomaly file shows the extent of an anomalously low Pwave velocity zone in the subsurface. Two other files show the extent of known hydrothermal systems in the Roosevelt Hot Springs area. Another file shows the location of the proposed water pipeline to pump water from the supply wells to the deep drill site.
+**Description-** Three shapefiles in this submission show the position of proposed seismic line surveys. The mid-crustal velocity anomaly file shows the extent of an anomalously low Pwave velocity zone in the subsurface. Two other files show the extent of known hydrothermal systems in the Roosevelt Hot Springs area. Another file shows the location of the proposed water pipeline to pump water from the supply wells to the deep drill site.
 
-Tags- arcgis, egs, forge, geothermal, gis, Geophysics, Well-log, hydrothermal, lines, milford, roosevelt, seismic, shapefile, system, utah
+**Tags-** arcgis, egs, forge, geothermal, gis, Geophysics, Well-log, hydrothermal, lines, milford, roosevelt, seismic, shapefile, system, utah
 
-**Link- **https://catalog.data.gov/dataset/geophysical-andgeospatial- shapefiles-from-the-milford-utah-forge-project
+**Link-** https://catalog.data.gov/dataset/geophysical-andgeospatial- shapefiles-from-the-milford-utah-forge-project
 
-Marine geoscience data management
+**Marine geoscience data management**
 
-**Location- ** Multiple
+**Location-** Multiple
 
-Description- The BGS manages marine data, information and material as part of the National Geoscience Data Centre (NGDC), the Marine Environment Data and Information Network (MEDIN) geology data archive centre (DAC) and the National Geological Repository (NGR). Geological, geophysical and environmental data on the seabed and sub-seabed is used to underpin the marine geoscience undertaken by the BGS and the wider user community in the UK and beyond. The data is used for a range of purposes, including the creation of BGS products. Data is freely available online (where possible) under OpenGeoscience and the Open Government Licence. However, some data are not yet processed for online delivery and in these cases there may be a charge to cover data preparation. You can also deposit data with us.
+**Description-** The BGS manages marine data, information and material as part of the National Geoscience Data Centre (NGDC), the Marine Environment Data and Information Network (MEDIN) geology data archive centre (DAC) and the National Geological Repository (NGR). Geological, geophysical and environmental data on the seabed and sub-seabed is used to underpin the marine geoscience undertaken by the BGS and the wider user community in the UK and beyond. The data is used for a range of purposes, including the creation of BGS products. Data is freely available online (where possible) under OpenGeoscience and the Open Government Licence. However, some data are not yet processed for online delivery and in these cases there may be a charge to cover data preparation. You can also deposit data with us.
 
-Tags- Marine, Geology, Geophysics
+**Tags-** Marine, Geology, Geophysics
 
-Link- https://www.bgs.ac.uk/geological-data/nationalgeoscience-data-centre/ngdc-data-management/marinegeoscience- data-management/
+**Link-** https://www.bgs.ac.uk/geological-data/nationalgeoscience-data-centre/ngdc-data-management/marinegeoscience- data-management/
 
-GEOLOGY: DATASETS
+**GEOLOGY: DATASETS**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- Michigan GIS Open Data Portal- Here you can browse, search, preview, and download a variety of Michigan geospatial datasets. Browse by category or enter key words in the search box to locate a dataset of interest. You can then read its description to learn more and explore attributes before downloading. A variety of formats exist when downloading such as ESRI shapefile, spreadsheet, KML, or API.USGS Science Data Catalog- The USGS Science Data Catalog provides seamless access to USGS research and monitoring data from across the nation. Users have the ability to search, browse, or use a mapbased interface to discover data. Data.gov: Geology- This link will bring you to the U.S. Government's repository of data tagged 'geology'.National Geologic Map Database-A geoscience resource for maps and related data about geology, hazards, earth resources, geophysics, geochemistry, geochronology, paleontology, and marine geology.NOAA- The National Oceanic and Atmospheric Administration's National Centers for Environmental Information (NCEI) is responsible for preserving, monitoring, assessing, and providing public access to the Nation's treasure of geophysical data and information.AASG Geothermal Data Repository- Datasets collected as part of the AASG Geothermal Data System. Organized by geothermal data theme, and by state, this listing will probably be of most interest to geothermal domain scientists and engineers. PANGAEA- The information system PANGAEA is operated as an Open Access library aimed at archiving, publishing and distributing georeferenced data from earth system research. The system guarantees long-term availability of its content through a commitment of the hosting institutions. Most of the data are freely available and can be used under the terms of the license mentioned on the data set description. A few password protected data sets are under moratorium from ongoing projects. The description of each data set is always visible and includes the principle investigator (PI) who may be asked for access.Marine Geoscience Data System- The Marine Geoscience Data System (MGDS) provides a suite of tools and services for free public access to marine geoscience research data acquired throughout the global oceans and adjoining continental margins. The system evolved from projects initiated from 2003-2004 with funding from the National Science Foundation to provide data management services for the U.S. Antarctic Program (USAP), the Ridge 2000 and MARGINS programs, and for active source seismic data. In 2005, the system was expanded to include dedicated data management services for global bathymetry data. Since 2010, MGDS has been part of IEDA, an NSF-funded data facility for solid earth geoscience data.
+**Description-** Michigan GIS Open Data Portal- Here you can browse, search, preview, and download a variety of Michigan geospatial datasets. Browse by category or enter key words in the search box to locate a dataset of interest. You can then read its description to learn more and explore attributes before downloading. A variety of formats exist when downloading such as ESRI shapefile, spreadsheet, KML, or API.USGS Science Data Catalog- The USGS Science Data Catalog provides seamless access to USGS research and monitoring data from across the nation. Users have the ability to search, browse, or use a mapbased interface to discover data. Data.gov: Geology- This link will bring you to the U.S. Government's repository of data tagged 'geology'.National Geologic Map Database-A geoscience resource for maps and related data about geology, hazards, earth resources, geophysics, geochemistry, geochronology, paleontology, and marine geology.NOAA- The National Oceanic and Atmospheric Administration's National Centers for Environmental Information (NCEI) is responsible for preserving, monitoring, assessing, and providing public access to the Nation's treasure of geophysical data and information.AASG Geothermal Data Repository- Datasets collected as part of the AASG Geothermal Data System. Organized by geothermal data theme, and by state, this listing will probably be of most interest to geothermal domain scientists and engineers. PANGAEA- The information system PANGAEA is operated as an Open Access library aimed at archiving, publishing and distributing georeferenced data from earth system research. The system guarantees long-term availability of its content through a commitment of the hosting institutions. Most of the data are freely available and can be used under the terms of the license mentioned on the data set description. A few password protected data sets are under moratorium from ongoing projects. The description of each data set is always visible and includes the principle investigator (PI) who may be asked for access.Marine Geoscience Data System- The Marine Geoscience Data System (MGDS) provides a suite of tools and services for free public access to marine geoscience research data acquired throughout the global oceans and adjoining continental margins. The system evolved from projects initiated from 2003-2004 with funding from the National Science Foundation to provide data management services for the U.S. Antarctic Program (USAP), the Ridge 2000 and MARGINS programs, and for active source seismic data. In 2005, the system was expanded to include dedicated data management services for global bathymetry data. Since 2010, MGDS has been part of IEDA, an NSF-funded data facility for solid earth geoscience data.
 
-Tags- GIS, Geothermal, Seismic, Geology, Exploration
+**Tags-** GIS, Geothermal, Seismic, Geology, Exploration
 
-Link- https://gis-michigan.opendata.arcgis.com
+**Link-** https://gis-michigan.opendata.arcgis.com
 
-Indonesian Geological Resource
+**Indonesian Geological Resource**
 
-Location- Indonesia
+**Location-** Indonesia
 
-Description- Geologically, Indonesia is a potential region for the formation of various energy and mineral resources. Exploration activities that have been carried out since 1800’s up to the present time, have successfully uncovered these resources in numerous areas. Among these various resources, oil, gas, coal, coal, tin, nickel, copper, and gold have so far given important contribution to the Indonesian economy. The majority of Indonesian territory has not been explored thoroughly, and therefore the chance to discover new economical energy and mineral deposit is likely to be substantial. https://www.oecd.org/env/2075532.pdf By : S. Suryantoro and M.H. Mana
+**Description-** Geologically, Indonesia is a potential region for the formation of various energy and mineral resources. Exploration activities that have been carried out since 1800’s up to the present time, have successfully uncovered these resources in numerous areas. Among these various resources, oil, gas, coal, coal, tin, nickel, copper, and gold have so far given important contribution to the Indonesian economy. The majority of Indonesian territory has not been explored thoroughly, and therefore the chance to discover new economical energy and mineral deposit is likely to be substantial. https://www.oecd.org/env/2075532.pdf By : S. Suryantoro and M.H. Mana
 
-Tags- Geology, Map, Mineral, Natural resources, Indonesia
+**Tags-** Geology, Map, Mineral, Natural resources, Indonesia
 
-Link- https://www.kaggle.com/code/mpwolke/indonesiangeological- resource
+**Link-** https://www.kaggle.com/code/mpwolke/indonesiangeological- resource
 
-Wister, CA Downhole and Seismic Data
+**Wister, CA Downhole and Seismic Data**
 
-Location- Wister, USA
+**Location-** Wister, USA
 
-Description- This submission contains Downhole geophysical logs associated with Wister, CA Wells 12-27 and 85-20. The logs include Spontaneous Potential (SP), HILT Caliper (HCAL), Gamma Ray (GR), Array Induction (AIT), and Neutron Porosity (NPOR) data. Also included are a well log, Injection Test, Pressure Temperature Spinner log, shut in temperature survey, a final well schematic, and files about the well's location and drilling history. This submission also contains data from a three-dimensional (3D) multi-component (3C) seismic reflection survey on the Wister Geothermal prospect area in the northern portion of the Imperial Valley, California. The Wister seismic survey area was 13.2 square miles. (Resistivity image logs (Schlumberger FMI) in 85-20 indicate that maximum horizontal stress (Shmax) is oriented NNE but that open fractures are oriented suboptimally).
+**Description-** This submission contains Downhole geophysical logs associated with Wister, CA Wells 12-27 and 85-20. The logs include Spontaneous Potential (SP), HILT Caliper (HCAL), Gamma Ray (GR), Array Induction (AIT), and Neutron Porosity (NPOR) data. Also included are a well log, Injection Test, Pressure Temperature Spinner log, shut in temperature survey, a final well schematic, and files about the well's location and drilling history. This submission also contains data from a three-dimensional (3D) multi-component (3C) seismic reflection survey on the Wister Geothermal prospect area in the northern portion of the Imperial Valley, California. The Wister seismic survey area was 13.2 square miles. (Resistivity image logs (Schlumberger FMI) in 85-20 indicate that maximum horizontal stress (Shmax) is oriented NNE but that open fractures are oriented suboptimally).
 
-Tags- Seismic, Geophysics, Well-log, Geothermal
+**Tags-** Seismic, Geophysics, Well-log, Geothermal
 
-Link- https://catalog.data.gov/dataset/wister-ca-downholeand- seismic-data-daa1d
+**Link-** https://catalog.data.gov/dataset/wister-ca-downholeand- seismic-data-daa1d
 
-Dixie Valley Engineered Geothermal System Exploration Methodology Project, Baseline Conceptual Model Report
+**Dixie Valley Engineered Geothermal System Exploration Methodology Project, Baseline Conceptual Model Report**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- The Engineered Geothermal System (EGS) Exploration Methodology Project is developing an exploration approach for EGS through the integration of geoscientific data. The Project chose the Dixie Valley Geothermal System in Nevada as a field laboratory site for methodlogy calibration purposes because, in the public domain, it is a highly characterized geothermal systems in the Basin and Range with a considerable amount of geoscience and most importantly, well data. This Baseline Conceptual Model report summarizes the results of the first three project tasks (1) collect and assess the existing public domain geoscience data, (2) design and populate a GIS database, and (3) develop a baseline (existing data) geothermal conceptual model, evaluate geostatistical relationships, and generate baseline, coupled EGS favorability/trust maps from +1km above sea level (asl) to -4km asl for the Calibration Area (Dixie Valley Geothermal Wellfield) to identify EGS drilling targets at a scale of 5km x 5km. It presents (1) an assessment of the readily available public domain data and some proprietary data provided by Terra-Gen Power, LLC, (2) a re-interpretation of these data as required, (3) an exploratory geostatistical data analysis, (4) the baseline geothermal conceptual model, and (5) the EGS favorability/ trust mapping. The conceptual model presented applies to both the hydrothermal system and EGS in the Dixie Valley region.
+**Description-** The Engineered Geothermal System (EGS) Exploration Methodology Project is developing an exploration approach for EGS through the integration of geoscientific data. The Project chose the Dixie Valley Geothermal System in Nevada as a field laboratory site for methodlogy calibration purposes because, in the public domain, it is a highly characterized geothermal systems in the Basin and Range with a considerable amount of geoscience and most importantly, well data. This Baseline Conceptual Model report summarizes the results of the first three project tasks (1) collect and assess the existing public domain geoscience data, (2) design and populate a GIS database, and (3) develop a baseline (existing data) geothermal conceptual model, evaluate geostatistical relationships, and generate baseline, coupled EGS favorability/trust maps from +1km above sea level (asl) to -4km asl for the Calibration Area (Dixie Valley Geothermal Wellfield) to identify EGS drilling targets at a scale of 5km x 5km. It presents (1) an assessment of the readily available public domain data and some proprietary data provided by Terra-Gen Power, LLC, (2) a re-interpretation of these data as required, (3) an exploratory geostatistical data analysis, (4) the baseline geothermal conceptual model, and (5) the EGS favorability/ trust mapping. The conceptual model presented applies to both the hydrothermal system and EGS in the Dixie Valley region.
 
-Tags- Hydrothermal, Geothermal, Geostatistics
+**Tags-** Hydrothermal, Geothermal, Geostatistics
 
-Link- https://catalog.data.gov/dataset/dixie-valleyengineered- geothermal-system-exploration-methodologyproject- baseline-concept-fcc87
+**Link-** https://catalog.data.gov/dataset/dixie-valleyengineered- geothermal-system-exploration-methodologyproject- baseline-concept-fcc87
 
-Newberry Well 55-29 Stimulation Data
+**Newberry Well 55-29 Stimulation Data**
 
-Location- NewBerry, USA
+**Location-** NewBerry, USA
 
-Description- The Newberry Volcano EGS Demonstration in central Oregon, a 3 year project started in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. Stimulation started October 17, 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Two TZIM treatments successfully shifted the depth of stimulation. Injectivity, DTS, and seismic analysis indicate that fracture permeability in well NWG 55-29 was enhanced by two orders of magnitude. This submission includes all of the files and reports associated with the geophysical exploration, stimulation, and monitoring included in the scope of the project.
+**Description-** The Newberry Volcano EGS Demonstration in central Oregon, a 3 year project started in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. Stimulation started October 17, 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Two TZIM treatments successfully shifted the depth of stimulation. Injectivity, DTS, and seismic analysis indicate that fracture permeability in well NWG 55-29 was enhanced by two orders of magnitude. This submission includes all of the files and reports associated with the geophysical exploration, stimulation, and monitoring included in the scope of the project.
 
-Type- Well-log, Seismic, Bedrock
+**Type-** Well-log, Seismic, Bedrock
 
-Link- https://catalog.data.gov/dataset/newberry-well-55-29-stimulation-data
+**Link-** https://catalog.data.gov/dataset/newberry-well-55-29-stimulation-data
 
-Geophysical and Geospatial Shapefiles from the Milford, UtahFORGE Project
+**Geophysical and Geospatial Shapefiles from the Milford, UtahFORGE Project**
 
-Location- Utah, USA
+**Location-** Utah, USA
 
 Description- Three shapefiles in this submission show the position of proposed seismic line surveys. The mid-crustal velocity anomaly file shows the extent of an anomalously low P-wave velocity zone in the subsurface. Two other files show the extent of known hydrothermal systems in the Roosevelt Hot Springs area. Another file shows the location of the proposed water pipeline to pump water from the supply wells to the deep drill site.
 
-Tags- Geophysics, Geospatial, Subsurface
+**Tags-** Geophysics, Geospatial, Subsurface
 
-Link- https://catalog.data.gov/dataset/geophysical-andgeospatial-shapefiles-from-the-milford-utah-forge-project
+**Link-** https://catalog.data.gov/dataset/geophysical-andgeospatial-shapefiles-from-the-milford-utah-forge-project
 
-Newberry Well 55-29 Stimulation Data 2014
+**Newberry Well 55-29 Stimulation Data 2014**
 
-Location- Newell, USA
+**Location-** Newell, USA
 
-Description- The Newberry Volcano EGS Demonstration in central Oregon, a 5 year project begun in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. An initial stimulation was conducted in 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Further analysis indicated a shallow casing leak and an unstable formation in the open hole. The well was repaired with a shallow casing tieback and perforated liner in the open hole and re-stimulated in 2014. The second stimulation started September 23rd, 2014 and continued for 3 weeks with over 9,500 m3 of water injected. The well was treated with several batches of newly tested TZIM diverter materials and a newly designed Diverter Injection Vessel Assembly (DIVA), which was the main modification to the original injection system design used in 2012. A second round of stimulation that included two perforation shots and additional batches of TZIM was conducted on November 11th, 2014 for 9 days with an additional 4,000 m3 of water injected. The stimulations resulted in a 3-4 fold increase in injectivity, and PTS data indicates partial blocking and creation of flow zones near the bottom of the well. This submission includes all of the files and reports associated with the stimulation, pressure testing, and monitoring included in the scope of the project.
+**Description-** The Newberry Volcano EGS Demonstration in central Oregon, a 5 year project begun in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. An initial stimulation was conducted in 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Further analysis indicated a shallow casing leak and an unstable formation in the open hole. The well was repaired with a shallow casing tieback and perforated liner in the open hole and re-stimulated in 2014. The second stimulation started September 23rd, 2014 and continued for 3 weeks with over 9,500 m3 of water injected. The well was treated with several batches of newly tested TZIM diverter materials and a newly designed Diverter Injection Vessel Assembly (DIVA), which was the main modification to the original injection system design used in 2012. A second round of stimulation that included two perforation shots and additional batches of TZIM was conducted on November 11th, 2014 for 9 days with an additional 4,000 m3 of water injected. The stimulations resulted in a 3-4 fold increase in injectivity, and PTS data indicates partial blocking and creation of flow zones near the bottom of the well. This submission includes all of the files and reports associated with the stimulation, pressure testing, and monitoring included in the scope of the project.
 
-Tags- Well log, Bedrock, Seismic, Drillcore
+**Tags-** Well log, Bedrock, Seismic, Drillcore
 
-Link- https://catalog.data.gov/dataset/newberry-well-55-29-stimulation-data-2014-5f263
+**Link-** https://catalog.data.gov/dataset/newberry-well-55-29-stimulation-data-2014-5f263
 
-Seismic Data from Roosevelt Hot Springs, Utah FORGE Study Area
+**Seismic Data from Roosevelt Hot Springs, Utah FORGE Study Area**
 
-Location- Utah, USA
+**Location-** Utah, USA
 
-Description- This set of data contains raw and processed 2D and 3D seismic data from the Utah FORGE study area near Roosevelt Hot Springs. The zipped archives numbered from 1-100 to 1001-1122 contain 3D seismic uncorrelated shot gatherers SEG-Y files. The zipped archives numbered from 1-100C to 1001-1122C contain 3D seismic correlated shot gatherers SEG-Y files. Other data have intuitive names.
+**Description-** This set of data contains raw and processed 2D and 3D seismic data from the Utah FORGE study area near Roosevelt Hot Springs. The zipped archives numbered from 1-100 to 1001-1122 contain 3D seismic uncorrelated shot gatherers SEG-Y files. The zipped archives numbered from 1-100C to 1001-1122C contain 3D seismic correlated shot gatherers SEG-Y files. Other data have intuitive names.
 
-Tags- Seismic, Well-log, Bedrock,
+**Tags-** Seismic, Well-log, Bedrock,
 
-**Link- ** https://gdr.openei.org/submissions/1015
+**Link-** https://gdr.openei.org/submissions/1015
 
-Silver Peak Innovative Exploration Project
+**Silver Peak Innovative Exploration Project**
 
-Location- Esmeralda County, Nevada, USA
+**Location-** Esmeralda County, Nevada, USA
 
-Description- Data generated from the Silver Peak Innovative Exploration Project, in Esmeralda County, Nevada, encompasses a deep-circulation (amagmatic) meteoric-geothermal system circulating beneath basin-fill sediments locally blanketed with travertine in western Clayton Valley (lithium-rich brines from which have been mined for several decades). Spring- and shallow-borehole thermal-water geochemistry and geothermometry suggest that a Silver Peak geothermal reservoir is very likely to attain a temperature range 260- 300oF (~125-150oC) , and may reach 300-340oF (~150-170oC) or higher (GeothermEx, Inc., 2006). Results of detailed geologic mapping, structural analysis, and conceptual modeling of the prospect (1) support the GeothermEx (op. cit.) assertion that the Silver Peak prospect has good potential for geothermal-power production; and (2) provide a theoretical geologic framework for further exploration and development of the resource. The Silver Peak prospect is situated in the transtensional (regional shearing coupled with extension) Walker Lane structural belt, and squarely within the late Miocene to Pliocene (11 Ma to ~5 Ma) Silver Peak-Lone Mountain metamorphic core complex (SPCC), a feature that accommodated initial displacement transfer between major right-lateral strike- slip fault zones on opposite sides of the Walker Lane. The SPCC consists essentially of a ductiley-deformed lower plate, or core, of Proterozoic metamorphic tectonites and tectonized Mesozoic granitoids separated by a regionally extensive, low-angle detachment fault from an upper plate of severely stretched and fractured structural slices of brittle, Proterozoic to Miocene-age lithologies. From a geothermal perspective, the detachment fault itself and some of the upper-plate structural sheets could function as important, if secondary, subhorizontal thermal-fluid aquifers in a Silver Peak hydrothermal system.
+**Description-** Data generated from the Silver Peak Innovative Exploration Project, in Esmeralda County, Nevada, encompasses a deep-circulation (amagmatic) meteoric-geothermal system circulating beneath basin-fill **sediments locally blanketed with travertine in western Clayton Valley (lithium-rich brines from which have been mined for several decades). Spring- and shallow-borehole thermal-water geochemistry and geothermometry suggest that a Silver Peak geothermal reservoir is very likely to attain a temperature range 260- 300oF (~125-150oC) , and may reach 300-340oF (~150-170oC) or higher (GeothermEx, Inc., 2006). Results of detailed geologic mapping, structural analysis, and conceptual modeling of the prospect (1) support the GeothermEx (op. cit.) assertion that the Silver Peak prospect has good potential for geothermal-power production; and (2) provide a theoretical geologic framework for further exploration and development of the resource. The Silver Peak prospect is situated in the transtensional (regional shearing coupled with extension) Walker Lane structural belt, and squarely within the late Miocene to Pliocene (11 Ma to ~5 Ma) Silver Peak-Lone Mountain metamorphic core complex (SPCC), a feature that accommodated initial displacement transfer between major right-lateral strike- slip fault zones on opposite sides of the Walker Lane. The SPCC consists essentially of a ductiley-deformed lower plate, or core, of Proterozoic metamorphic tectonites and tectonized Mesozoic granitoids separated by a regionally extensive, low-angle detachment fault from an upper plate of severely stretched and fractured structural slices of brittle, Proterozoic to Miocene-age lithologies. From a geothermal perspective, the detachment fault itself and some of the upper-plate structural sheets could function as important, if secondary, subhorizontal thermal-fluid aquifers in a Silver Peak hydrothermal system.
 
-Tags- Hydrothermal, Geothermal, Minerals
+**Tags-** Hydrothermal, Geothermal, Minerals
 
-Link- https://catalog.data.gov/dataset/silver-peak-innovativeexploration-project-ram-power-inc-fa599
+**Link-** https://catalog.data.gov/dataset/silver-peak-innovativeexploration-project-ram-power-inc-fa599
 
-Fallon FORGE: Geophysics and Geochemistry
+**Fallon FORGE: Geophysics and Geochemistry**
 
-Location- Silver Peak, USA
+**Location-** Silver Peak, USA
 
-Description- The data is associated to the Fallon FORGE project and includes mudlogs for all wells used to characterize the subsurface, as wells as gravity, magnetotelluric, earthquake seismicity, and temperature data from the Navy GPO and Ormat. Also included are geologic maps from the USGS and Nevada Bureau of Mines and Geology for the Fallon, NV area.
+**Description-** The data is associated to the Fallon FORGE project and includes mudlogs for all wells used to characterize the subsurface, as wells as gravity, magnetotelluric, earthquake seismicity, and temperature data from the Navy GPO and Ormat. Also included are geologic maps from the USGS and Nevada Bureau of Mines and Geology for the Fallon, NV area.
 
-Tags- Geology, Geophysics, Well-log, Geochemistry
+**Tags-** Geology, Geophysics, Well-log, Geochemistry
 
-Link- https://catalog.data.gov/dataset/fallon-forgegeophysics-and-geochemistry
+**Link-** https://catalog.data.gov/dataset/fallon-forgegeophysics-and-geochemistry
 
-Brady's Geothermal Field Nodal Seismometers Metadata
+**Brady's Geothermal Field Nodal Seismometers Metadata**
 
-Location- Multiple
+**Location-** Multiple
 
-Description- Metadata for the nodal seismometer array deployed at the POROTOMO's Natural Laboratory in Brady Hot Spring, Nevada during the March 2016 testing. Metadata includes location and timing for each instrument as well as file lists of data to be uploaded in a separate submission. Tags- Seismic, Geothermal,Metadata Link- https://catalog.data.gov/dataset/bradys-geothermalfield- nodal-seismometers-metadata-0f580 Kansas Geological Survey Well- Log Dataset Location- Kansas, USA Description- This data set is collected from Kansas Geological Survey, data is available for public use and may be distributed or copied. The user is granted the right, without any fee or cost, to access, link to and use, publish, distribute, disseminate, transfer, or in any manner alter, modify, revise, copy, edit, or digitize this information. It is unlawful to falsely claim copyright or other rights in KGS material. The user must include an appropriate citation crediting the source of all or any portion of this website and its contents as follows: If the user does reuse or redistribute information contained on this site, the user acknowledges that KGS or its affiliates, retains a nonexclusive, royalty-free, perpetual, irrevocable, and full right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display the original information throughout the world in any media. KGS expressly disclaims the applicability of the Uniform Computer Information Transactions Act (UCITA). This is a well log file which contains approximately 8000 lines of data containing data of Resistivity, Spontaneous Potential, Gamma ray, Bulk density, Neutron and density porosity data. The data can be used to experiment and train small deep learning models, Which can further be transferred to big datasets.
+**Description-** Metadata for the nodal seismometer array deployed at the POROTOMO's Natural Laboratory in Brady Hot Spring, Nevada during the March 2016 testing. Metadata includes location and timing for each instrument as well as file lists of data to be uploaded in a separate submission. Tags- Seismic, Geothermal,Metadata Link- https://catalog.data.gov/dataset/bradys-geothermalfield- nodal-seismometers-metadata-0f580 Kansas Geological Survey Well- Log Dataset Location- Kansas, USA Description- This data set is collected from Kansas Geological Survey, data is available for public use and may be distributed or copied. The user is granted the right, without any fee or cost, to access, link to and use, publish, distribute, disseminate, transfer, or in any manner alter, modify, revise, copy, edit, or digitize this information. It is unlawful to falsely claim copyright or other rights in KGS material. The user must include an appropriate citation crediting the source of all or any portion of this website and its contents as follows: If the user does reuse or redistribute information contained on this site, the user acknowledges that KGS or its affiliates, retains a nonexclusive, royalty-free, perpetual, irrevocable, and full right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display the original information throughout the world in any media. KGS expressly disclaims the applicability of the Uniform Computer Information Transactions Act (UCITA). This is a well log file which contains approximately 8000 lines of data containing data of Resistivity, Spontaneous Potential, Gamma ray, Bulk density, Neutron and density porosity data. The data can be used to experiment and train small deep learning models, Which can further be transferred to big datasets.
 
-Type- Well-log, Geology, Seismic,
+**Type-** Well-log, Geology, Seismic,
 
-Link- http://www.kgs.ku.edu
+**Link-** http://www.kgs.ku.edu
 
 https://www.kaggle.com/datasets/prateekvyas/well-log-data
 
-Newberry Well 55-29 Stimulation Data 2014
+**Newberry Well 55-29 Stimulation Data 2014**
 
-Location- Newell, USA
+**Location-** Newell, USA
 
-Description- The Newberry Volcano EGS Demonstration in central Oregon, a 5 year project begun in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. An initial stimulation was conducted in 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Further analysis indicated a shallow casing leak and an unstable formation in the open hole. The well was repaired with a shallow casing tieback and perforated liner in the open hole and re-stimulated in 2014. The second stimulation started September 23rd, 2014 and continued for 3 weeks with over 9,500 m3 of water injected. The well was treated with several batches of newly tested TZIM diverter materials and a newly designed Diverter Injection Vessel Assembly (DIVA), which was the main modification to the original injection system design used in 2012. A second round of stimulation that included two perforation shots and additional batches of TZIM was conducted on November 11th, 2014 for 9 days with an additional 4,000 m3 of water injected. The stimulations resulted in a 3-4 fold increase in injectivity, and PTS data indicates partial blocking and creation of flow zones near the bottom of the well. This submission includes all of the files and reports associated with the stimulation, pressure testing, and monitoring included in the scope of the project.
+**Description-** The Newberry Volcano EGS Demonstration in central Oregon, a 5 year project begun in 2010, tests recent technological advances designed to reduce the cost of power generated by EGS in a hot, dry well (NWG 55-29) drilled in 2008. First, the stimulation pumps used were designed to run for weeks and deliver large volumes of water at moderate well-head pressure. Second, to stimulate multiple zones, AltaRock developed thermo-degradable zonal isolation materials (TZIMs) to seal off fractures in a geothermal well to stimulate secondary and tertiary fracture zones. The TZIMs degrade within weeks, resulting in an optimized injection/ production profile of the entire well. Third, the project followed a project-specific Induced Seismicity Mitigation Plan (ISMP) to evaluate, monitor for, and mitigate felt induced seismicity. An initial stimulation was conducted in 2012 and continued for 7 weeks, with over 41,000 m3 of water injected. Further analysis indicated a shallow casing leak and an unstable formation in the open hole. The well was repaired with a shallow casing tieback and perforated liner in the open hole and re-stimulated in 2014. The second stimulation started September 23rd, 2014 and continued for 3 weeks with over 9,500 m3 of water injected. The well was treated with several batches of newly tested TZIM diverter materials and a newly designed Diverter Injection Vessel Assembly (DIVA), which was the main modification to the original injection system design used in 2012. A second round of stimulation that included two perforation shots and additional batches of TZIM was conducted on November 11th, 2014 for 9 days with an additional 4,000 m3 of water injected. The stimulations resulted in a 3-4 fold increase in injectivity, and PTS data indicates partial blocking and creation of flow zones near the bottom of the well. This submission includes all of the files and reports associated with the stimulation, pressure testing, and monitoring included in the scope of the project.
 
 **Tags-** Well-log, Seismic,Stimulation
 
