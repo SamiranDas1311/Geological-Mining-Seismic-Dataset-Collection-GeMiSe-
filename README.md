@@ -386,117 +386,117 @@ Citation: http://mrdata.usgs.gov/mrds/ http://mrdata.usgs.gov/services/mrds? req
 
 **Link-** https://data.world/dhs/construction-minerals
 
-Ferrous Metal Mines Location-
+**Ferrous Metal Mines Location-**
 
-Description- This dataset represents ferrous metal mines in the United States. The data represent commodities covered by the Minerals Information Team (MIT) of the U.S. Geological Survey, and the operations are those considered active in 2003 and surveyed by the MIT. These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+**Description-** This dataset represents ferrous metal mines in the United States. The data represent commodities covered by the Minerals Information Team (MIT) of the U.S. Geological Survey, and the operations are those considered active in 2003 and surveyed by the MIT. These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
 
-TAGS- mining, opportunity, homeland security, minerals, opportunity homeland security Link- https://data.world/dhs/ferrous-metal-mines
+**TAGS-** mining, opportunity, homeland security, minerals, opportunity homeland security 
 
-GSI Bedrock Symbols 100K
+**Link-** https://data.world/dhs/ferrous-metal-mines
 
-**Location- ** Russia
+**GSI Bedrock Symbols 100K**
 
-Description- This data represents a seamless bedrock geological dataset encompassing Republic of Ireland and parts of Northern Ireland. The seamless geological dataset was created from the GSI Bedrock 1:100,000 scale digital geological map series. The dataset comprises 6 key shape files.
+**Location-** Russia
 
-1) Bed100k.shp -
+**Description-** This data represents a seamless bedrock geological dataset encompassing Republic of Ireland and parts of Northern Ireland. The seamless geological dataset was created from the GSI Bedrock 1:100,000 scale digital geological map series. The dataset comprises 6 key shape files.
+
+**1) Bed100k.shp** -
 
 A polygon shapefile that contains bedrock geological information on Stratigraphy, Igneous, Lithology and Diagentic codes, their unitnames and brief descriptions. Fields: AREA: Area of the polygon in square metres. Field type: Double. PERIMETER: Perimeter of polygons in metres: Field type: Double. NEWCODE: unique identifier for every formation or member. Field type: String. SHEETNO: 100k sheets from which they originated before creating the seamless version. Field type: Double. STRATCODE: Stratigraphic code for unit, as labeled on printed maps and their legends. Field type: String. LITHCODE: Lithological code. Field type: String. DESCRIPT: Brief description of the dominant rock types. Field type: String. C,M,Y,K: cyan, magenta, yellow and black percentage. Field types: Double. UNITNAME: Name of the geological formation or member. Field Type: String.
 
-3) Index100k.shp - An overlay polygon index of 1:100,000 scale printed map sheets. Fields: SHEETNO: 1:100,000 printed sheet number. Field type: Double.
+**3) Index100k.shp** - An overlay polygon index of 1:100,000 scale printed map sheets. Fields: SHEETNO: 1:100,000 printed sheet number. Field type: Double.
 
-4) Struc100k.shp (Structural Linework) -
+**4) Struc100k.shp (Structural Linework) -**
 
 A linework shapefile that contains structural geological linework codes and descriptions Fields: LENGTH: Length of the feature in metres: Field type: Float. CODE: Unique identifier for structure type. Field type: String. SHEET: The 1:100,000 printed map sheet number on which the structure was originally located. Field type: Double. FOLDNAME: Name field for regionally important folds. Field type: String. FAULTNAME: Name field for regionally important faults. Field type: String. ADDITION: Additional information field for structure. Field type: String. DESCRIPT: Description of structure type. Field type: String. SLIDE: Name field for regionally important slides. Field type: String.
 
-7) Strat10igraphic Linework) -
+**7) Strat10igraphic Linework)** -
 
 A linework shapefile that contains stratigraphic geological line codes and descriptions. Fields: LENGTH: Length of the feature in metres: Field type: Float. CODE: Unique identifier for stratigraphic line type. Field type: String. SHEET: The 1:100,000 printed map sheet number on which the stratigraphic line was originally located. Field type: Double. DESCRIPT: Description of stratigraphic line type. Field type: String. ADDITION: Additional information field for stratigraphic line. Field type: String. DYKELABEL: Igneous dyke code identifier. Field type: String. STRATCODE: Stratigraphic code for narrow formations or members which are represented by a line rather than a polygon in Bed100k. Field type: String. LITHCODE: Lithological code for narrow formations or members which are represented by a line rather than a polygon in Bed100k. Field type: String.
 
-10) NZL_GNS_GM6_Victoria_ Range
+**10) NZL_GNS_GM6_Victoria_ Range**
 
-Location- New Zealand
+**Location-** New Zealand
 
-Description- The Geology of the Victoria Range area (NZL_GNS_GM6_geology) comprises a 1:50 000 geological dataset covering part of the Buller District on the West Coast of the South Island of New Zealand. Source: https://catalogue.data.govt.nz/dataset/ nzl_gns_gm6_victoria_range Last updated at https://catalogue.data.govt.nz/organization/ gns-science : 2020-09-10 License - Creative Commons Attribution 3.0 New Zealand (CC BY 3.0 NZ)
+**Description-** The Geology of the Victoria Range area (NZL_GNS_GM6_geology) comprises a 1:50 000 geological dataset covering part of the Buller District on the West Coast of the South Island of New Zealand. Source: https://catalogue.data.govt.nz/dataset/ nzl_gns_gm6_victoria_range Last updated at https://catalogue.data.govt.nz/organization/ gns-science : 2020-09-10 License - Creative Commons Attribution 3.0 New Zealand (CC BY 3.0 NZ)
 
 TAGS buller district, new zealand, west coast, geology, geophysics, igneous petrology, minerals
 
-Link- https://data.world/nz-gns-science/0f28dd6d-2af2-4267-9ee7-1f3c7fe9cc79
+**Link-** https://data.world/nz-gns-science/0f28dd6d-2af2-4267-9ee7-1f3c7fe9cc79
 
-Glass Buttes Well 52-33Core Log
+**Glass Buttes Well 52-33Core Log**
 
-Location- Multiple Description- Core log from Glass Buttes Well 52-33, drilled by Geodrill Rig 6 in 2014 to a depth of 3000 feet. Logged at 500 ft intervals.
+**Location-** Multiple 
 
-Source: https://catalog.data.gov/dataset/glass-butteswell- 52-33-core-log-5cfce
+**Description-** Core log from Glass Buttes Well 52-33, drilled by Geodrill Rig 6 in 2014 to a depth of 3000 feet. Logged at 500 ft intervals.
+
+**Source:** https://catalog.data.gov/dataset/glass-butteswell- 52-33-core-log-5cfce
 
 Last updated at https://catalog.data.gov/organization/doe-
 
-Tags- fractures, geothermal, lithology, minerals, minerology, oregon, temperature
+**Tags-** fractures, geothermal, lithology, minerals, minerology, oregon, temperature
 
 LICENSE CC-BY DICTIONARY
 
 1 file, 0 columns, 0 tables·View
 
-Map based index (GeoIndex) mineral occurrences
+**Map based index (GeoIndex) mineral occurrences**
 
-Location- UK
+**Location-** UK
 
-Description- This layer of the map based index (GeoIndex) shows the locations of known mines, mineral showings and localities, including sites where minerals of economic interest have been identified in panned concentrates. The information for the index is taken from the Mineral Occurrence Database. The Mineral Occurrence Database holds information on mineral occurrences in the UK including locations of known mines, deposits, prospects and mineral showings, including sites where minerals of potential economic interest have been identified in panned concentrates. Data is normally taken from published sources or from internal BGS records, such as field sheets, rock and stream sediment collection cards. Data compilation started ca. 1994 and the database currently holds about 13 000 records, but details of many more old workings and occurrences remain to be added.
+**Description-** This layer of the map based index (GeoIndex) shows the locations of known mines, mineral showings and localities, including sites where minerals of economic interest have been identified in panned concentrates. The information for the index is taken from the Mineral Occurrence Database. The Mineral Occurrence Database holds information on mineral occurrences in the UK including locations of known mines, deposits, prospects and mineral showings, including sites where minerals of potential economic interest have been identified in panned concentrates. Data is normally taken from published sources or from internal BGS records, such as field sheets, rock and stream sediment collection cards. Data compilation started ca. 1994 and the database currently holds about 13 000 records, but details of many more old workings and occurrences remain to be added.
 
-Tags: Mineral, Geology, Deposits,
+**Tags:** Mineral, Geology, Deposits,
 
-Source: https://ckan.publishing.service.gov.uk/dataset/mapbased- index-geoindex-mineral-occurrences1
+**Source:** https://ckan.publishing.service.gov.uk/dataset/mapbased- index-geoindex-mineral-occurrences1
 
 Last updated at https://ckan.publishing.service.gov.uk/
 
 dataset : 2022-06-15
 
-**Location-
+**Location-**
 
-Description-** This data represents a seamless bedrock geological dataset encompassing Republic of Ireland and parts of Northern Ireland. The seamless geological dataset was created from the GSI Bedrock 1:100,000 scale digital geological map series. The dataset comprises 6 key shape files. Link- https://data.world/geological-surv/ 700b93ce-23c3-4f0d-a7ac-ad0e551a5f79 GSI Bedrock Stratigraphic Linework 100k
+**Description-** This data represents a seamless bedrock geological dataset encompassing Republic of Ireland and parts of Northern Ireland. The seamless geological dataset was created from the GSI Bedrock 1:100,000 scale digital geological map series. The dataset comprises 6 key shape files. Link- https://data.world/geological-surv/ 700b93ce-23c3-4f0d-a7ac-ad0e551a5f79 GSI Bedrock Stratigraphic Linework 100k
 
-Ferrous Metal Processing Plant
+**Ferrous Metal Processing Plant**
 
-Location-
-
-Description-
+**Description-**
 
 This dataset represents ferrous metal processing plants in the United States. The data represent commodities covered by the Minerals Information Team (MIT) of the U.S. Geological Survey, and the operations are those considered active in 2003 and surveyed by the MIT. These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
 
-Tags- Ferrous, Metal, Mineral, Plant, Production
+**Tags-** Ferrous, Metal, Mineral, Plant, Production
 
-Link- https://data.world/dhs/ferrous-metal-processing-plant
+**Link-** https://data.world/dhs/ferrous-metal-processing-plant
 
-Total Sediment Thickness of the World's Oceans and Marginal Seas
+**Total Sediment Thickness of the World's Oceans and Marginal Seas**
 
-Location-
+**Location-**
 
-Description- CEI's global ocean sediment thickness grid of Divins (2003) updated by Whittaker et al. (2013) has been updated again for the NE Atlantic, Arctic, Southern Ocean, and Mediterranean regions. The new global 5‐arc‐minute total sediment thickness grid, GlobSed, incorporates new data and several regional oceanic sediment thickness maps, which have been compiled and published for the, (1) NE Atlantic (Funck et al., 2017; Hopper et al., 2014), (2) Mediterranean (Molinari & Morelli, 2011), (3) Arctic (Petrov et al., 2016), (4) Weddell Sea (Huang et al., 2014), and (5) the Ross Sea, Amundsen Sea, and Bellingshausen Sea sectors off West Antarctica (Lindeque et al., 2016; Wobbe et al., 2014). This version also includes updates in the White Sea region based on the VSEGEI map of Orlov and Fedorov (2001). GlobSed covers a larger area than NCEI’s previous global grids (Divins, 2003; Whittaker et al. 2013), and the new updates results in a 29.7% increase in estimated total oceanic sediment volume.
+**Description-** CEI's global ocean sediment thickness grid of Divins (2003) updated by Whittaker et al. (2013) has been updated again for the NE Atlantic, Arctic, Southern Ocean, and Mediterranean regions. The new global 5‐arc‐minute total sediment thickness grid, GlobSed, incorporates new data and several regional oceanic sediment thickness maps, which have been compiled and published for the, (1) NE Atlantic (Funck et al., 2017; Hopper et al., 2014), (2) Mediterranean (Molinari & Morelli, 2011), (3) Arctic (Petrov et al., 2016), (4) Weddell Sea (Huang et al., 2014), and (5) the Ross Sea, Amundsen Sea, and Bellingshausen Sea sectors off West Antarctica (Lindeque et al., 2016; Wobbe et al., 2014). This version also includes updates in the White Sea region based on the VSEGEI map of Orlov and Fedorov (2001). GlobSed covers a larger area than NCEI’s previous global grids (Divins, 2003; Whittaker et al. 2013), and the new updates results in a 29.7% increase in estimated total oceanic sediment volume.
 
-Tags-
-
-Link- https://www.ngdc.noaa.gov/mgg/sedthick/
+**Link-** https://www.ngdc.noaa.gov/mgg/sedthick/
 
 Geospatial database of the 2018 lower East Rift Zone eruption of Kīlauea Volcano, Hawaiʻi
 
-Location-
+**Location-**
 
 Description- The 2018 lower East Rift Zone eruption of Kīlauea Volcano began in the late afternoon of 3 May, with fissure 1 opening and erupting lava onto Mohala Street in the Leilani Estates subdivision, part of the lower Puna District of the Island of Hawaiʻi. For the first week of the eruption, relatively viscous lava flowed only within a kilometer (0.6 miles) of the fissures within Leilani Estates, before activity shifted downrift (eastnortheast) and out of the subdivision during mid-May. Around 18 May, activity along the lower East Rift Zone intensified, and fluid lava erupting at higher effusion rates from the downrift fissures reached the ocean within two days. Near the end of May, this more vigorous activity shifted back uprift into Leilani Estates, where fissure 8 reactivated with lava fountains feeding several ʻaʻā flows. The southernmost flow lobe developed into a well-defined lava channel and reached the ocean at Kapoho Bay—11 kilometers (7 miles) away—on 3 June. Fissure 8 continued supplying this lava channel for more than two months, constructing an approximately 3.5- square-kilometer (1.4-square-mile) lava delta along the coastline. Over 4 and 5 August, activity at fissure 8 waned and flow in the lava channel came to a halt, only to be followed by weak activity within the vent in late August and early September. By then, the eruption had covered 35.5 square kilometers (13.7 square miles) of the lower Puna District with lava. In this report, the authors have sought to chronicle this sequence of events using geospatial data in the form of an Esri file geodatabase, Esri shapefiles, and Google Earth KMZs.
 
-Tags- Map ServiceOGC WFS LayerOGC WMS LayerOGC
+**Tags-** Map ServiceOGC WFS LayerOGC WMS LayerOGC
 
-WMS ServiceShapefile
+**WMS ServiceShapefile**
 
-**Link- **- https://www.sciencebase.gov/catalog/item/5eba3f6082ce25b5135d5b85
+**Link-**- https://www.sciencebase.gov/catalog/item/5eba3f6082ce25b5135d5b85
 
-Location- Multiple
+**Location-** Multiple
 
-Description- Multi class classification using different types of images of rocks. This dataset is prepared by a team of Brac University Mars Rover Team for the purpose of research of similar rocks identification in a mars-like surface.
+**Description-** Multi class classification using different types of images of rocks. This dataset is prepared by a team of Brac University Mars Rover Team for the purpose of research of similar rocks identification in a mars-like surface.
 
-Tags- It contains images of rocks of different types. You will find images of different types of rocks such as - Igneous, Metamorphic, sedimentary, etc
+**Tags-** It contains images of rocks of different types. You will find images of different types of rocks such as - Igneous, Metamorphic, sedimentary, etc
 
-Link- https://www.kaggle.com/datasets/salmaneunus/rock-classification?select=Dataset
+**Link-** https://www.kaggle.com/datasets/salmaneunus/rock-classification?select=Dataset
 
-Rock Classification Dataset
+**Rock Classification Dataset**
 
 Description- Marine Geologic data compilations and reports in the NCEI archive are from academic and government sources around the world. Over ten terabytes of analyses, descriptions, and images of sediment and rock from the ocean floor and lakebeds are available. Examples of data available include sediment/rock composition, physical properties, petrology/mineralogy, geochemistry, paleontology, paleomagnetism, x-rays, photographs, and other imagery. All reports and data, regardless of format, are accessible via the Marine Geology Digital Inventory and/or linked to the Index to Marine and Lacustrine Geological Samples (IMLGS). Searches offer free, immediate download of digital data, many images, and .PDF reports, and information on how to obtain fullresolution images from the archive, and order CD-ROMs, microfilm, or oversize charts. Some larger data sets, including the IMLGS, have their own web interfaces. The IMLGS provides searches of sea floor and lakebed cores, grabs, dredges, and drill samples available from sample repositories at partner institutions, with links to browse and download related information from NCEI and other sources.
 
